@@ -1,0 +1,7 @@
+abrir terminal de git
+
+- cd C:\Users\Nicolás Molina\OneDrive\Escritorio\TESIS GIT\GaN
+-git status
+-git add .
+-git commit -m "mensaje diciendo que cambie"
+-git push
