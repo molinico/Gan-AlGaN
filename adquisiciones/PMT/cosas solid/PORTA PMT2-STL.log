@@ -1,0 +1,25 @@
+STL translation to Solid Edge
+Date: Monday,February 10,2025 12:56PM
+Source File:C:\Users\Nicolás Molina\OneDrive\Escritorio\PMT\PORTA PMT2.stl
+Author: Unknown
+Organization: Unknown
+Source System: DEX
+
+Hardware:
+Processor: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+Operating System: Windows 10
+Installed Memory: 15.89 GB
+
+Software Information:
+Parasolid Version: 35.0.149
+PSBodyshop Version: 35.0.82
+Solid Edge Version: 223.00.00.101 x64
+
+STL Import Options
+Heal Mesh Faults:Off
+Make Base Feature:On
+Enable Logging:On
+
+Translation progress:
+Translation process completed
+Time required to translate:00 : 00 : 05
